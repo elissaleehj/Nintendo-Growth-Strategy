@@ -9,7 +9,7 @@ There are 55,792 records in the dataset as of April 12th, 2019.
 https://www.kaggle.com/ashaheedq/video-games-sales-2019#vgsales-12-4-2019.csv
 
 ## Objective:
-The objective of this anlaysis was to come up with a strategy to increase Nintendo's video game sales by +10% in the next year through market prioritization, regional localization, and new product development. The video game industry has become a competitive and shirinking market in the past two decades. This analysis provides methods and opportunites for Nintendo to accelerate sales and stay competitive in 4 regions, NA, PAL, JP and Other.  
+The objective of this anlaysis was to come up with a strategy to increase Nintendo's video game sales by +10% in the next year through market prioritization, regional localization, and new product development. The video game industry has become a competitive and shirinking market in recent year. This analysis provides methods and opportunites for Nintendo to accelerate sales and stay competitive in 4 regions, NA, PAL, JP and Other.  
 
 ## Tools used:
 Data analysis incorporated descriptive and inferential statistics through correlational coefficient, linear regressions, boxplots, histograms etc. Exploratory analysis and visuals were conducted and created through Excel. Some visuals were created in Tableau. 
