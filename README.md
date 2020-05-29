@@ -11,7 +11,7 @@ The objective of this anlaysis was to come up with a strategy to increase Ninten
 ## Tools used:
 Data analysis incorporated descriptive and inferential statistics through correlational coefficient, linear regressions, boxplots, histograms etc. Exploratory analysis and visuals were conducted and created through Excel. Some visuals were created in Tableau. 
 
-The Boston Consulting group’s growth-share matrix (BCG matrix) was used to design Nintendo's business strategy, through defining the company's main competitors and market position relative to global sales. Bubble chart was created on Excel with 4 quardrants to show market position of video game publishers. 
+The Boston Consulting group’s growth-share matrix (BCG matrix) was used to design Nintendo's business strategy, through defining the company's main competitors and market position relative to global sales. Bubble chart was created on Excel with 4 quardrants to show the market position of video game publishers. 
 
 ## Results:
 After completion of analysis, three main recommendations were provided. First, Nintendo should prioritize investment and resources based on the market size and position. Next Nintendo's customer and competitors are different with region, therefore, strategy should be regionally specific. Lastly, there is massive opportunity in Action, Shooter and Sports genre for Nintendo to pursue new product development. 
