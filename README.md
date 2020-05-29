@@ -18,8 +18,3 @@ The Boston Consulting group’s growth-share matrix (BCG matrix) was used to des
 ## Results:
 After completion of analysis, three main recommendations were provided. First, Nintendo should priovitize investment and resources based on the market size and position. Next Nintendo's customer and competitors are different with region, therefore, strategy should be regionally specific. Lastly, there is massive opportunity in Action, Shooter and Sports genre for Nintendo to pursue new product development. 
 
-
-
-was determined that to increase revenue the grocery store would need to plan to be open on all available Trade Days (targeting summer months)​ and improve marketing for summer months (specifically around sporting events) and trade days.
-
-To limit unnecessary costs it was recommended to increase stocking of perishable items during summer months only (specifically the categories of Produce/Dairy and Meat​) and to limit stocking of packages, facial tissue, eggs, cigarettes, and phone items available in store​.
