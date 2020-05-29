@@ -1,1 +1,1 @@
-# Nintendo_Sales_Strategy
+# Data Analysis Capstone Project: Nintendo Sales Strategy
