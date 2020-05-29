@@ -11,9 +11,9 @@ Rank - Ranking of overall sales, Name - Name of the game, Platform - Platform of
 The objective of this anlaysis is to come up with a strategy to increase Nintendo's video game sales by +10% in the next year through market prioritization, regional localization, and new product development. As the video game industry has become a competitive and shirinking market in the past two decades. This analysis provides methods and opportunites for Nintendo to accelerate sales to stay competitive in 4 regions, NA, PAL, JP and Other.  
 
 ## Tools used:
-To start, data was converted from 3 .csv files and cleaned up in Excel by creating values to represent dollar amounts instead of Polish currency (PLN), creating new groups for products to reduce the amount of categories, and identifying/labeling which days were Polish Trade Free Sundays in 2018. Data analysis using descriptive and inferential statistics was conducted within Excel.
-
-Visuals were created using pivot tables (in Excel) and researched information about Polish Trade Free Sundays. Some visuals were also created in Tableau. Visuals focused to represent the dispersion of various categories focused on revenue and costs for a full year, a month, or an individual day.
+Data analysis incorporated descriptive and inferential statistics through correlational coefficient, linear regressions, boxplots, histograms etc. 
+Exploratory analysis and visuals were conducted and created through Excel. Some visuals were created in Tableau. 
+The Boston Consulting group’s growth-share matrix (BCG matrix) was used to design Nintendo's business strategy, through defining the company's main competitors and market position relative to global sales. 
 
 ## Results:
 After completion of analysis it was determined that to increase revenue​ the grocery store would need to plan to be open on all available Trade Days (targeting summer months)​ and improve marketing for summer months (specifically around sporting events) and trade days.
