@@ -1,8 +1,11 @@
 # Data Analytics Capstone Project: Nintendo Sales Strategy
 
 ## Introduction:
+
+This is the first capstone project for Springboard's Data Analysis Career Track Certification.  
+
 In this project, a dataset provided by Kaggle was used which contains a list of video games with sales, critic and users score. 
-There are 55,792 records in the dataset as of April 12th, 2019
+There are 55,792 records in the dataset as of April 12th, 2019. 
 https://www.kaggle.com/ashaheedq/video-games-sales-2019#vgsales-12-4-2019.csv
 
 ## Objective:
