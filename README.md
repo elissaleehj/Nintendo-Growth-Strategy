@@ -12,7 +12,7 @@ https://www.kaggle.com/ashaheedq/video-games-sales-2019#vgsales-12-4-2019.csv
 The objective of this anlaysis was to come up with a strategy to increase Nintendo's video game sales by +10% in the next year through market prioritization, regional localization, and new product development. The video game industry has become a competitive and shirinking market in recent year. This analysis performs market research of the video game industry and provides insigns on methods that Nintendo can take to accelerate sales and stay competitive in 4 regions, NA, PAL, JP and Other.  
 
 ## Tools used:
-Data analysis incorporated descriptive and inferential statistics through correlational coefficient, linear regressions, boxplots, histograms etc. Exploratory analysis and visuals were conducted and created through Excel. Some visuals were created in Tableau. 
+3C analysis (company, competitor, and customer) were conducted through Excel and Tableau. Exploratory analysis incorporated descriptive and inferential statistics through correlational coefficient, linear regressions, boxplots, histograms etc. 
 
 The Boston Consulting group’s growth-share matrix (BCG matrix) was used to design Nintendo's business strategy, through defining the company's main competitors and market position relative to global sales. Bubble chart was created on Excel with 4 quardrants to show the market position of video game publishers. 
 
